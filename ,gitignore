@@ -1,8 +1,0 @@
-games.csv
-blunder_analysis.csv
-reverse_report.txt
-stockfish.exe
-__pycache__/
-*.pyc
-.env
-
